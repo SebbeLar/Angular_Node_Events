@@ -1,0 +1,18 @@
+{
+  "name": "angular_node_events",
+  "version": "1.0.0",
+  "description": "Small application using angular and node.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Larsson",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.13.1",
+    "express": "4.13.0"
+  }
+}
