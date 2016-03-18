@@ -1,3 +1,7 @@
 {
-    "preset": "airbnb"
+    "preset": "airbnb",
+    "disallowMultipleVarDecl": {"allExcept": [
+        "require"
+    ]},
+    "requireTrailingComma": false
 }

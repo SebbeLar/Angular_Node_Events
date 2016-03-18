@@ -2,6 +2,7 @@
     "esversion": 6,
     "node": true,
     "globals": {
-        "angular": false
+        "angular": false,
+        "eventsApp": false
     }
 }
